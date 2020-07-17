@@ -1,0 +1,4 @@
+# Created at 2020-07-17T13:28:26.003
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Javaworkspace\Com.infi.acemoney\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="44998" started-at="2020-07-17T13:28:26 IST" finished-at="2020-07-17T13:29:11 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="44998" started-at="2020-07-17T13:28:26 IST" finished-at="2020-07-17T13:29:11 IST">
+      <class name="basics.FbLogin">
+        <test-method status="PASS" signature="setUpChrome()[pri:0, instance:basics.FbLogin@1faf8f2]" name="setUpChrome" is-config="true" duration-ms="44173" started-at="2020-07-17T13:28:26 IST" finished-at="2020-07-17T13:29:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:basics.FbLogin@1faf8f2]" name="verifyTitle" duration-ms="32" started-at="2020-07-17T13:29:11 IST" finished-at="2020-07-17T13:29:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:basics.FbLogin@1faf8f2]" name="tearDown" is-config="true" duration-ms="767" started-at="2020-07-17T13:29:11 IST" finished-at="2020-07-17T13:29:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- basics.FbLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
